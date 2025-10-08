@@ -26,10 +26,11 @@ To analyze sales data to identify top-performing products, customer segments, an
 ##  How to Run
 1. Download all files.  
 2. Open the notebook in Jupyter/Colab.  
-3. Run all cells to generate the anREADMEalysis & charts.
+3. Run all cells to generate the analysis & charts.
 
 ---
  **Author:** 
  Adwaya Ghosh
  Analyst
+
  adwayagh@gmail.com
